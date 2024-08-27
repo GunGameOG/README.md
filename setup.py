@@ -14,9 +14,9 @@ setup(
     ],
     include_package_data=True,
     description="A tool for detecting and mitigating DDoS attacks using XDP and BPF",
-    author="Your Name",
+    author="GunGameOG",
     author_email="your.email@example.com",
-    url="https://github.com/yourusername/ddos_detector",
+    url="https://github.com/GunGameOG/ddos_detector",
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
