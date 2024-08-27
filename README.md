@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/ddos_detector-beta-blue)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=blue)
 
 > [!TIP]
 > This package provides a tool for detecting and mitigating DDoS attacks using XDP and BPF.
