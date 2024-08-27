@@ -1,6 +1,7 @@
-# DDoS Detector
+![](https://img.shields.io/badge/ddos_detector-beta-blue)
 
-This package provides a tool for detecting and mitigating DDoS attacks using XDP and BPF.
+> [!TIP]
+> This package provides a tool for detecting and mitigating DDoS attacks using XDP and BPF.
 
 ## Installation
 
@@ -22,4 +23,8 @@ Run the DDoS detection tool:
 sudo ddos-detect
 ```
 
-Ensure you have root privileges as the tool requires access to low-level networking functions.
+> [!IMPORTANT]
+> Ensured you have root privileges as the tool requires access to low-level networking functions.
+
+> [!NOTE]
+> Provide feedback in discussions. 
