@@ -6,7 +6,7 @@ This package provides a tool for detecting and mitigating DDoS attacks using XDP
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ddos_detector.git
+    git clone https://github.com/GunGameOG/ddos_detector.git
     cd ddos_detector
     ```
 
@@ -30,7 +30,7 @@ To install and run the tool on a Linux system:
 
 1. Clone your repository and navigate to the directory:
    ```bash
-   git clone https://github.com/yourusername/ddos_detector.git
+   git clone https://github.com/GunGameOG/ddos_detector.git
    cd ddos_detector
    ```
 2.	Install the package:
